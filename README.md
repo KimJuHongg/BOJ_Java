@@ -2,4 +2,4 @@
 백준 코딩테스트 _ JAVA
 
 # Usage
-## 링크
+<https://github.com/KimJuHongg/BOJ_Java/blob/main/Main.java>
